@@ -1,3 +1,3 @@
-# Hi, I'm Tharindu 👋🏼
+<img src="https://raw.githubusercontent.com/pktharindu/pktharindu/master/gh-header.png" alt="banner that says Hi, I am Tharindu - A seasoned full-stack web developer alongside a cartoon illustration of Monica">
 
 [![Linkedin Badge](https://img.shields.io/badge/-pktharindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pktharindu/)](https://www.linkedin.com/in/pktharindu/) [![Twitter Badge](https://img.shields.io/badge/-@CallMeTharindu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CallMeTharindu)](https://twitter.com/CallMeTharindu)
